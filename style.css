@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(5, 5, 5);
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.contenedor {
+
+    width: 450px;
+    background: white;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+
+}
+
+.icono2 {
+    font-size: 55px;
+    position: absolute;
+    left: 62%;
+}
+
+.icono1 {
+    height: 10%;
+    width: 10%;
+    font-size: 60px;
+    position: absolute;
+    left: 550px;
+    margin-top: 10px;
+
+}
+
+
+.logo {
+    float: left;
+    font-size: 20px;
+    overflow: hidden;
+    margin-top: 25px;
+    position: relative;
+    left: 70px;
+}
+
+.nombre {
+    float: left;
+    position: relative;
+    top: 35px;
+   left:5px;
+}
+
+
+.photo {
+    width: 450px;
+    height: 200px;
+    position: relative;
+    margin-top: 10px;
+
+
+}
+
+.icono3 {
+    font-size: 30px;
+    padding: 5px;
+}
+
+.icono4 {
+    position: absolute;
+    left: 61%;
+    font-size: 30px;
+}
+
+.icono5 {
+    font-size: 30px;
+    padding: 5px;
+}
+
+.icono6 {
+    font-size: 30px;
+    padding: 5px;
+}
+
+.liked {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.comentario {
+    padding: 10px;
+}
